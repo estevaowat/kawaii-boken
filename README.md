@@ -7,12 +7,12 @@ Trabalho de Conclusão de Curso para terminar a minha faculdade [UNIP](https://u
 
 - dotnet C# (versão 6.0.302)
 
-## Ferramentas utilizadas para desenvolver o jogo:
+## Ferramentas utilizadas para desenvolver o jogo
 
 - Unity (versão 2022.1.9f1)
 - Visual Studio Code com extensões para desenvolvimento de aplicações em C#
 
-## Conceitos adquiridos fazendo esse jogo relacionados ao curso de Ciência da Computação:
+## Conceitos adquiridos fazendo esse jogo relacionados ao curso de Ciência da Computação
 
 - Animações do personagem
   - Matemática para calcular a velocidade de corrida e pulo do personagem
@@ -48,4 +48,3 @@ Documentação:
 #### Playlist de músicas utilizadas para desenvolver esse projeto
 
 [PLAYLIST](https://www.youtube.com/watch?v=3B4_G9eMr-o&list=PLgJsTSWeIgIsmZXIi3cdVQp32tMNTUwHK&index=8&ab_channel=stellarsheik)
-
